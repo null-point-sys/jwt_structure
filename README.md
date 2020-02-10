@@ -1,7 +1,7 @@
 # jwt_structure
 
- • header  	(how signature should be computed)
- • .payload	(data stored inside the JWT)
+ • header  	(how signature should be computed)  
+ • .payload	(data stored inside the JWT)  
  • .signature	(encoded header + the encoded payload + a secret + the algorithm specified in the header + and sign that)
 
  •eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
